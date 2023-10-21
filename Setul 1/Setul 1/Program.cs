@@ -10,7 +10,7 @@ namespace Setul_1
     {
         static void Main(string[] args)
         {
-
+//Primele 10 exercitii din setul 1
             //Exercitiul 1
             Console.WriteLine("Exercitiul 1.");
             Console.WriteLine("Introduceti variabila a:");
