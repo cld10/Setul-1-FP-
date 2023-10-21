@@ -75,7 +75,7 @@ namespace setul_1_11_15
                 x /= 10;
             }
 
-; if (oglindit == copie)
+           if (oglindit == copie)
             {
                 Console.WriteLine("Numarul este palindrom");
             }
