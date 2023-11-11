@@ -1,0 +1,7 @@
+C:\Users\Diana\Desktop\setul 1 16-21\setul 1 16-21\bin\Debug\setul 1 16-21.exe.config
+C:\Users\Diana\Desktop\setul 1 16-21\setul 1 16-21\bin\Debug\setul 1 16-21.exe
+C:\Users\Diana\Desktop\setul 1 16-21\setul 1 16-21\bin\Debug\setul 1 16-21.pdb
+C:\Users\Diana\Desktop\setul 1 16-21\setul 1 16-21\obj\Debug\setul 1 16-21.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\setul 1 16-21\setul 1 16-21\obj\Debug\setul 1 16-21.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\setul 1 16-21\setul 1 16-21\obj\Debug\setul 1 16-21.exe
+C:\Users\Diana\Desktop\setul 1 16-21\setul 1 16-21\obj\Debug\setul 1 16-21.pdb
